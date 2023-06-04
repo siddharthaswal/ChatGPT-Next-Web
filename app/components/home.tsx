@@ -1,5 +1,3 @@
-"use client";
-
 require("../polyfill");
 
 import { useState, useEffect } from "react";
